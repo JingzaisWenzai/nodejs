@@ -1,0 +1,14 @@
+{
+	"author":"ZJW",
+	"name":"zhoujia",
+	"version":"0.1.1",
+	"main":"main",
+	"description":"我们的工具",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/zjwWhisher/nodejs.git"
+	},
+	"keywords":["tool","zjw","util"],
+	"dependencies":{},
+	"engines":{"node":"*"}
+}
